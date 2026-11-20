@@ -1,0 +1,536 @@
+{
+    "Multinomial Naive Bayes": {
+        "ARTS": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 87.0
+        },
+        "ARTS & CULTURE": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 77.0
+        },
+        "BLACK VOICES": {
+            "precision": 0.8333333333333334,
+            "recall": 0.01893939393939394,
+            "f1-score": 0.037037037037037035,
+            "support": 264.0
+        },
+        "BUSINESS": {
+            "precision": 0.9166666666666666,
+            "recall": 0.06376811594202898,
+            "f1-score": 0.11924119241192412,
+            "support": 345.0
+        },
+        "COLLEGE": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 66.0
+        },
+        "COMEDY": {
+            "precision": 0.725,
+            "recall": 0.09415584415584416,
+            "f1-score": 0.16666666666666666,
+            "support": 308.0
+        },
+        "CRIME": {
+            "precision": 0.6923076923076923,
+            "recall": 0.08780487804878048,
+            "f1-score": 0.15584415584415584,
+            "support": 205.0
+        },
+        "CULTURE & ARTS": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 60.0
+        },
+        "DIVORCE": {
+            "precision": 0.9705882352941176,
+            "recall": 0.16751269035532995,
+            "f1-score": 0.2857142857142857,
+            "support": 197.0
+        },
+        "EDUCATION": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 59.0
+        },
+        "ENTERTAINMENT": {
+            "precision": 0.4365307294658242,
+            "recall": 0.7607607607607607,
+            "f1-score": 0.5547445255474452,
+            "support": 999.0
+        },
+        "ENVIRONMENT": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 79.0
+        },
+        "FIFTY": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 81.0
+        },
+        "FOOD & DRINK": {
+            "precision": 0.7178423236514523,
+            "recall": 0.473972602739726,
+            "f1-score": 0.570957095709571,
+            "support": 365.0
+        },
+        "GOOD NEWS": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 81.0
+        },
+        "GREEN": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 151.0
+        },
+        "HEALTHY LIVING": {
+            "precision": 0.6666666666666666,
+            "recall": 0.005194805194805195,
+            "f1-score": 0.010309278350515464,
+            "support": 385.0
+        },
+        "HOME & LIVING": {
+            "precision": 0.9295774647887324,
+            "recall": 0.2716049382716049,
+            "f1-score": 0.42038216560509556,
+            "support": 243.0
+        },
+        "IMPACT": {
+            "precision": 1.0,
+            "recall": 0.004975124378109453,
+            "f1-score": 0.009900990099009901,
+            "support": 201.0
+        },
+        "LATINO VOICES": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 65.0
+        },
+        "MEDIA": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 170.0
+        },
+        "MONEY": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 101.0
+        },
+        "PARENTING": {
+            "precision": 0.50814332247557,
+            "recall": 0.3101391650099404,
+            "f1-score": 0.3851851851851852,
+            "support": 503.0
+        },
+        "PARENTS": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 224.0
+        },
+        "POLITICS": {
+            "precision": 0.3248772504091653,
+            "recall": 0.9697117733268197,
+            "f1-score": 0.4866985411303175,
+            "support": 2047.0
+        },
+        "QUEER VOICES": {
+            "precision": 0.9247311827956989,
+            "recall": 0.23497267759562843,
+            "f1-score": 0.3747276688453159,
+            "support": 366.0
+        },
+        "RELIGION": {
+            "precision": 0.8,
+            "recall": 0.02702702702702703,
+            "f1-score": 0.05228758169934641,
+            "support": 148.0
+        },
+        "SCIENCE": {
+            "precision": 1.0,
+            "recall": 0.015748031496062992,
+            "f1-score": 0.031007751937984496,
+            "support": 127.0
+        },
+        "SPORTS": {
+            "precision": 0.6575342465753424,
+            "recall": 0.16382252559726962,
+            "f1-score": 0.26229508196721313,
+            "support": 293.0
+        },
+        "STYLE": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 130.0
+        },
+        "STYLE & BEAUTY": {
+            "precision": 0.6692456479690522,
+            "recall": 0.6431226765799256,
+            "f1-score": 0.6559241706161137,
+            "support": 538.0
+        },
+        "TASTE": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 121.0
+        },
+        "TECH": {
+            "precision": 1.0,
+            "recall": 0.01694915254237288,
+            "f1-score": 0.03333333333333333,
+            "support": 118.0
+        },
+        "THE WORLDPOST": {
+            "precision": 0.5,
+            "recall": 0.04265402843601896,
+            "f1-score": 0.07860262008733625,
+            "support": 211.0
+        },
+        "TRAVEL": {
+            "precision": 0.6170634920634921,
+            "recall": 0.5456140350877193,
+            "f1-score": 0.5791433891992551,
+            "support": 570.0
+        },
+        "U.S. NEWS": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 79.0
+        },
+        "WEDDINGS": {
+            "precision": 0.9107142857142857,
+            "recall": 0.2463768115942029,
+            "f1-score": 0.38783269961977185,
+            "support": 207.0
+        },
+        "WEIRD NEWS": {
+            "precision": 1.0,
+            "recall": 0.00625,
+            "f1-score": 0.012422360248447204,
+            "support": 160.0
+        },
+        "WELLNESS": {
+            "precision": 0.3556288271314178,
+            "recall": 0.7322987390882638,
+            "f1-score": 0.4787571337983513,
+            "support": 1031.0
+        },
+        "WOMEN": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 199.0
+        },
+        "WORLD NEWS": {
+            "precision": 1.0,
+            "recall": 0.010526315789473684,
+            "f1-score": 0.020833333333333332,
+            "support": 190.0
+        },
+        "WORLDPOST": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 149.0
+        },
+        "accuracy": 0.40558333333333335,
+        "macro avg": {
+            "precision": 0.4322964611263931,
+            "recall": 0.14080719316564544,
+            "f1-score": 0.1469011486663574,
+            "support": 12000.0
+        },
+        "weighted avg": {
+            "precision": 0.5009933411414125,
+            "recall": 0.40558333333333335,
+            "f1-score": 0.3133522456575307,
+            "support": 12000.0
+        }
+    },
+    "Logistic Regression": {
+        "ARTS": {
+            "precision": 0.35294117647058826,
+            "recall": 0.06896551724137931,
+            "f1-score": 0.11538461538461539,
+            "support": 87.0
+        },
+        "ARTS & CULTURE": {
+            "precision": 0.21428571428571427,
+            "recall": 0.03896103896103896,
+            "f1-score": 0.06593406593406594,
+            "support": 77.0
+        },
+        "BLACK VOICES": {
+            "precision": 0.5614035087719298,
+            "recall": 0.24242424242424243,
+            "f1-score": 0.3386243386243386,
+            "support": 264.0
+        },
+        "BUSINESS": {
+            "precision": 0.5066666666666667,
+            "recall": 0.33043478260869563,
+            "f1-score": 0.4,
+            "support": 345.0
+        },
+        "COLLEGE": {
+            "precision": 0.38095238095238093,
+            "recall": 0.12121212121212122,
+            "f1-score": 0.1839080459770115,
+            "support": 66.0
+        },
+        "COMEDY": {
+            "precision": 0.6265822784810127,
+            "recall": 0.32142857142857145,
+            "f1-score": 0.4248927038626609,
+            "support": 308.0
+        },
+        "CRIME": {
+            "precision": 0.5523255813953488,
+            "recall": 0.4634146341463415,
+            "f1-score": 0.5039787798408488,
+            "support": 205.0
+        },
+        "CULTURE & ARTS": {
+            "precision": 0.8888888888888888,
+            "recall": 0.13333333333333333,
+            "f1-score": 0.2318840579710145,
+            "support": 60.0
+        },
+        "DIVORCE": {
+            "precision": 0.85,
+            "recall": 0.5177664974619289,
+            "f1-score": 0.6435331230283912,
+            "support": 197.0
+        },
+        "EDUCATION": {
+            "precision": 0.5555555555555556,
+            "recall": 0.0847457627118644,
+            "f1-score": 0.14705882352941177,
+            "support": 59.0
+        },
+        "ENTERTAINMENT": {
+            "precision": 0.4932562620423892,
+            "recall": 0.7687687687687688,
+            "f1-score": 0.6009389671361502,
+            "support": 999.0
+        },
+        "ENVIRONMENT": {
+            "precision": 1.0,
+            "recall": 0.0379746835443038,
+            "f1-score": 0.07317073170731707,
+            "support": 79.0
+        },
+        "FIFTY": {
+            "precision": 0.2,
+            "recall": 0.012345679012345678,
+            "f1-score": 0.023255813953488372,
+            "support": 81.0
+        },
+        "FOOD & DRINK": {
+            "precision": 0.576530612244898,
+            "recall": 0.6191780821917808,
+            "f1-score": 0.5970937912813739,
+            "support": 365.0
+        },
+        "GOOD NEWS": {
+            "precision": 0.4,
+            "recall": 0.024691358024691357,
+            "f1-score": 0.046511627906976744,
+            "support": 81.0
+        },
+        "GREEN": {
+            "precision": 0.4153846153846154,
+            "recall": 0.17880794701986755,
+            "f1-score": 0.25,
+            "support": 151.0
+        },
+        "HEALTHY LIVING": {
+            "precision": 0.29310344827586204,
+            "recall": 0.08831168831168831,
+            "f1-score": 0.13572854291417166,
+            "support": 385.0
+        },
+        "HOME & LIVING": {
+            "precision": 0.6954314720812182,
+            "recall": 0.5637860082304527,
+            "f1-score": 0.6227272727272727,
+            "support": 243.0
+        },
+        "IMPACT": {
+            "precision": 0.4722222222222222,
+            "recall": 0.0845771144278607,
+            "f1-score": 0.14345991561181434,
+            "support": 201.0
+        },
+        "LATINO VOICES": {
+            "precision": 1.0,
+            "recall": 0.09230769230769231,
+            "f1-score": 0.16901408450704225,
+            "support": 65.0
+        },
+        "MEDIA": {
+            "precision": 0.52,
+            "recall": 0.15294117647058825,
+            "f1-score": 0.23636363636363636,
+            "support": 170.0
+        },
+        "MONEY": {
+            "precision": 0.5,
+            "recall": 0.1485148514851485,
+            "f1-score": 0.22900763358778625,
+            "support": 101.0
+        },
+        "PARENTING": {
+            "precision": 0.4540059347181009,
+            "recall": 0.6083499005964215,
+            "f1-score": 0.5199660152931181,
+            "support": 503.0
+        },
+        "PARENTS": {
+            "precision": 0.4,
+            "recall": 0.07142857142857142,
+            "f1-score": 0.12121212121212122,
+            "support": 224.0
+        },
+        "POLITICS": {
+            "precision": 0.5156558533145275,
+            "recall": 0.8930141670737665,
+            "f1-score": 0.65379113018598,
+            "support": 2047.0
+        },
+        "QUEER VOICES": {
+            "precision": 0.8029197080291971,
+            "recall": 0.6010928961748634,
+            "f1-score": 0.6875,
+            "support": 366.0
+        },
+        "RELIGION": {
+            "precision": 0.5211267605633803,
+            "recall": 0.25,
+            "f1-score": 0.3378995433789954,
+            "support": 148.0
+        },
+        "SCIENCE": {
+            "precision": 0.6666666666666666,
+            "recall": 0.2047244094488189,
+            "f1-score": 0.3132530120481928,
+            "support": 127.0
+        },
+        "SPORTS": {
+            "precision": 0.6261261261261262,
+            "recall": 0.47440273037542663,
+            "f1-score": 0.5398058252427185,
+            "support": 293.0
+        },
+        "STYLE": {
+            "precision": 0.3333333333333333,
+            "recall": 0.007692307692307693,
+            "f1-score": 0.015037593984962405,
+            "support": 130.0
+        },
+        "STYLE & BEAUTY": {
+            "precision": 0.62,
+            "recall": 0.7490706319702602,
+            "f1-score": 0.6784511784511784,
+            "support": 538.0
+        },
+        "TASTE": {
+            "precision": 0.8,
+            "recall": 0.03305785123966942,
+            "f1-score": 0.06349206349206349,
+            "support": 121.0
+        },
+        "TECH": {
+            "precision": 0.5813953488372093,
+            "recall": 0.211864406779661,
+            "f1-score": 0.3105590062111801,
+            "support": 118.0
+        },
+        "THE WORLDPOST": {
+            "precision": 0.5327868852459017,
+            "recall": 0.3080568720379147,
+            "f1-score": 0.39039039039039036,
+            "support": 211.0
+        },
+        "TRAVEL": {
+            "precision": 0.5977917981072555,
+            "recall": 0.6649122807017543,
+            "f1-score": 0.6295681063122923,
+            "support": 570.0
+        },
+        "U.S. NEWS": {
+            "precision": 1.0,
+            "recall": 0.012658227848101266,
+            "f1-score": 0.025,
+            "support": 79.0
+        },
+        "WEDDINGS": {
+            "precision": 0.7909604519774012,
+            "recall": 0.6763285024154589,
+            "f1-score": 0.7291666666666666,
+            "support": 207.0
+        },
+        "WEIRD NEWS": {
+            "precision": 0.4444444444444444,
+            "recall": 0.1,
+            "f1-score": 0.16326530612244897,
+            "support": 160.0
+        },
+        "WELLNESS": {
+            "precision": 0.3944672131147541,
+            "recall": 0.7468477206595538,
+            "f1-score": 0.5162587998659068,
+            "support": 1031.0
+        },
+        "WOMEN": {
+            "precision": 0.38317757009345793,
+            "recall": 0.20603015075376885,
+            "f1-score": 0.2679738562091503,
+            "support": 199.0
+        },
+        "WORLD NEWS": {
+            "precision": 0.46551724137931033,
+            "recall": 0.14210526315789473,
+            "f1-score": 0.21774193548387097,
+            "support": 190.0
+        },
+        "WORLDPOST": {
+            "precision": 0.34615384615384615,
+            "recall": 0.06040268456375839,
+            "f1-score": 0.10285714285714286,
+            "support": 149.0
+        },
+        "accuracy": 0.51825,
+        "macro avg": {
+            "precision": 0.5555252277577191,
+            "recall": 0.28849836014863517,
+            "f1-score": 0.3206109586966135,
+            "support": 12000.0
+        },
+        "weighted avg": {
+            "precision": 0.5311837976856273,
+            "recall": 0.51825,
+            "f1-score": 0.4677325969445966,
+            "support": 12000.0
+        }
+    }
+}
